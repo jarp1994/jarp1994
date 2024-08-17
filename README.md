@@ -7,7 +7,7 @@ I'm a passionate developer and love to learn new things. Currently, I'm working 
 - ⚡ Fun fact: [I love to travel, read and enjoy all kind of sports.
 
 ## Featured Projects
-- [Countries]([link](https://github.com/jarp1994/Countries-PI))
+- [Countries](github.com/jarp1994/Countries-PI)
 
 
 ## Technologies and Tools
