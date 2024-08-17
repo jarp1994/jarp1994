@@ -20,7 +20,7 @@ I'm a passionate developer specializing in [your specialty or technology]. Curre
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your_linkedin_link)
-[![Twitter](https://img.shields.io/badge/Twitter-@username-blue)](your_twitter_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jorgeariano)
+  [![Instagram](https://img.shields.io/badge/Instagram-Profile-blue)](https://www.instagram.com/jorgeriano_)
 
 
