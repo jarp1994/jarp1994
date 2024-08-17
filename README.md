@@ -27,7 +27,8 @@ I'm a passionate developer and love to learn new things. Currently, I'm working 
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jorgeariano)
-[![Instagram](https://img.shields.io/badge/Instagram-@username-E4405F)](https://www.instagram.com/jorgeriano_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgeariano)
+[![Instagram](https://img.shields.io/badge/Instagram-@username-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jorgeriano)
+
 
 
