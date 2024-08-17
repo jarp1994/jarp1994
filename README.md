@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! I'm Jorge Andres Riaño Pardo 👋
 
-<!--
-**jarp1994/jarp1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer specializing in [your specialty or technology]. Currently, I'm working on All Tickets SAS and love contributing to open-source projects.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Angular,Java, Springboot and TypeScript.
+- 📫 How to reach me: jarps1994@gmail.com.
+- ⚡ Fun fact: [I love to travel, read and enjoy all kind of sports.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- Countries(https://github.com/jarp1994/Countries-PI): Brief description of the project.
+
+
+## Technologies and Tools
+
+- [(https://developer.mozilla.org/en-US/docs/Web/JavaScript)]
+- [Language/Framework 2](https://react.dev/)]
+- [Tool 1]
+- [Tool 2]
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your_linkedin_link)
+[![Twitter](https://img.shields.io/badge/Twitter-@username-blue)](your_twitter_link)
+
+
