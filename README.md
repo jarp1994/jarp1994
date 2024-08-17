@@ -2,7 +2,7 @@
 
 I'm a passionate developer and love to learn new things. Currently, I'm working on All Tickets SAS.
 
-- 🌱 I’m currently learning Angular,Java, Springboot and TypeScript.
+- 🌱 I’m currently learning ANGULAR - SPRINGBOOT - TYPESCRIPT - JAVA.
 - 📫 How to reach me: jarps1994@gmail.com.
 - ⚡ Fun fact: [I love to travel, read and enjoy all kind of sports.
 
@@ -27,8 +27,8 @@ I'm a passionate developer and love to learn new things. Currently, I'm working 
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgeariano)
-[![Instagram](https://img.shields.io/badge/Instagram-@username-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jorgeriano)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgeariano)
+![Instagram](https://img.shields.io/badge/Instagram-@jorgeriano_-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jorgeriano_)
 
 
 
