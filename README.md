@@ -29,7 +29,7 @@ I'm a passionate developer and love to learn new things. Currently, I'm working 
 
 You can find me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jorgeariano-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jorgeariano)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jorgeariano-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgeariano)
 [![Instagram](https://img.shields.io/badge/Instagram-@jorgeriano_-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jorgeriano_)
 
 
