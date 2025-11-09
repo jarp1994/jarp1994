@@ -1,10 +1,11 @@
 # Hi there! I'm Jorge Andres Riaño Pardo 👋
 
-I'm a passionate developer and love to learn new things. Currently, I'm working on All Tickets SAS.
+I'm a passionate developer who loves to learn and build innovative solutions. 
 
-- 🌱 I’m currently learning ANGULAR - SPRINGBOOT - TYPESCRIPT - JAVA.
-- 📫 How to reach me: jarps1994@gmail.com.
-- ⚡ Fun fact: [I love to travel, read and enjoy all kind of sports.
+- 🌱 I’m currently learning **Python**, **Artificial Intelligence**, and **Generative AI**, while deepening my expertise in **Java**, **Spring Boot**, **Angular**, **React**, **Next.js**, and **Microservices Architecture**.  
+- 📫 How to reach me: [jarps1994@gmail.com](mailto:jarps1994@gmail.com)  
+- ⚡ Fun fact: I love traveling, reading, and all kinds of sports.  
+
 
 ## Featured Projects
 - [Countries](https://github.com/jarp1994/Countries-PI)
@@ -24,6 +25,11 @@ I'm a passionate developer and love to learn new things. Currently, I'm working 
 - ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 - ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![AI](https://img.shields.io/badge/Artificial%20Intelligence-6F42C1?style=flat&logo=openai&logoColor=white)
+- ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat&logo=googlecloud&logoColor=white)
+
+
 
 ## Connect with Me
 
