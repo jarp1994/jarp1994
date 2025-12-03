@@ -2,7 +2,7 @@
 
 I'm a passionate developer who loves to learn and build innovative solutions. 
 
-- 🌱 I’m currently learning **Python**, **Artificial Intelligence**, and **Generative AI**, while deepening my expertise in **Java**, **Spring Boot**, **Angular**, **React**, **Next.js**, and **Microservices Architecture**.  
+- 🌱 I’m currently learning **Python**, **Artificial Intelligence**, and **Generative AI**, while deepening my expertise in **Java**, **Spring Boot**, **Angular**, **React**, **Next.js**, **Design Patterns** and **Software Architecture**.  
 - 📫 How to reach me: [jarps1994@gmail.com](mailto:jarps1994@gmail.com)  
 - ⚡ Fun fact: I love traveling, reading, and all kinds of sports.  
 
